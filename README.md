@@ -7,7 +7,7 @@
 ---
 
 ## Video explicativo
-* **Enlace al video (Google Drive):** [Ver demostración de TecnoStock](https://drive.google.com/file/d/123GaPbE1_5dB6hJdbVLFx5FGTdix_-zz/view?usp=sharing)
+* **Enlace al video (Google Drive): https://drive.google.com/file/d/123GaPbE1_5dB6hJdbVLFx5FGTdix_-zz/view?usp=sharing
 * *Nota: Se aplicó un ligero ajuste de velocidad en edición para respetar el límite de 5 minutos, por lo que el temporizador del grabador de pantalla muestra la duración original de captura. Si la vista previa de Drive carga en baja calidad, se recomienda seleccionar 1080p en el engranaje del reproductor o descargar el archivo.*
 
 ---
